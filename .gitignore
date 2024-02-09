@@ -1,3 +1,26 @@
-﻿BoxeGame/Binaries/Android
-BoxeGame/Intermediate/*
-BoxeGame/Saved*
+BoxeGame/BoxeGame/DerivedDataCache
+BoxeGame/BoxeGame/Intermediate
+BoxeGame/BoxeGame/Saved
+BoxeGame/BoxeGame/imports
+BoxeGame/BoxeGame/tables
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.log
+*.pdb
+*.exe
+*.exp
+
+# Built data for maps
+
+# ============ #
+# Third Party  #
+# ============ #
