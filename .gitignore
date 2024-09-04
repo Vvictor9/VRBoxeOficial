@@ -1,8 +1,9 @@
-BoxeGame/BoxeGame/DerivedDataCache
-BoxeGame/BoxeGame/Intermediate
-BoxeGame/BoxeGame/Saved
-BoxeGame/BoxeGame/imports
-BoxeGame/BoxeGame/tables
+BoxeGame/BoxeGame/DerivedDataCache/*
+BoxeGame/BoxeGame/Binaries/*
+BoxeGame/BoxeGame/Intermediate/*
+BoxeGame/BoxeGame/Saved/*
+BoxeGame/BoxeGame/imports/*
+BoxeGame/BoxeGame/tables/*
 
 .vscode
 .vs
